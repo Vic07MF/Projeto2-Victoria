@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 2. Execute o script principal no terminal:
    ```bash
-   python LGPD.py
+   py LGPD.py
    ```
 
 ---
